@@ -1,0 +1,17 @@
+{
+    "dataset": "PlantDoc",
+    "clean_train_images": 1860,
+    "val_images": 465,
+    "mobilenetv2_val": {
+        "val_accuracy": 0.4967741935483871,
+        "val_macro_f1": 0.46893576678099747,
+        "val_weighted_f1": 0.49882737166146246
+    },
+    "efficientnetb0_val": {
+        "val_accuracy": 0.5161290322580645,
+        "val_macro_f1": 0.4745039241309588,
+        "val_weighted_f1": 0.5112346729540761
+    },
+    "selected_model": "EfficientNetB0",
+    "deploy_model_path": "models/plantdoc_disease_model.keras"
+}

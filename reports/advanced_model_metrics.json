@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "champion_model": "EfficientNetB0 (Preserved Baseline)",
+    "validation_accuracy": 0.49032258064516127,
+    "validation_macro_f1": 0.4711208250103432,
+    "validation_weighted_f1": 0.48814497471498314,
+    "test_images": 236,
+    "test_accuracy": 0.4703389830508475,
+    "macro_precision": 0.5308815669926781,
+    "macro_recall": 0.47136844636844644,
+    "macro_f1": 0.4521402293514431,
+    "weighted_f1": 0.45643077607069044,
+    "use_tta": true,
+    "dataset": "PlantDoc (in-the-wild benchmark)"
+}

@@ -1,0 +1,9 @@
+{
+    "model_path": "models/plantdoc_disease_model.keras",
+    "test_images": 236,
+    "accuracy": 0.4703389830508475,
+    "macro_precision": 0.5308815669926781,
+    "macro_recall": 0.47136844636844644,
+    "macro_f1": 0.4521402293514431,
+    "weighted_f1": 0.45643077607069044
+}
